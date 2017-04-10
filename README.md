@@ -18,3 +18,5 @@ Please see the test case below: <br />
 •	Select shipping method <br />
 •	Select payment method <br />
 •	Verify that subtotal, shipping, tax and total price on the ‘Review Order’ section of the ‘Checkout’ page is as expected
+
+The following video demonstrates Selenium script execution:  https://www.screencast.com/t/cA7gqh1c
